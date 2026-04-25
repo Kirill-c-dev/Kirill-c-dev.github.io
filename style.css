@@ -24,13 +24,13 @@ header {
   background: linear-gradient(135deg, #0a3666, #1a508b);
   color: white;
   border-bottom: 4px solid #000;
-  position: fixed;
+  position: absolute;
   overflow: hidden;
 }
 
 header::after {
   content: '';
-  position: fixed;
+  position: absolute;
   bottom: -20px;
   left: 0;
   width: 100%;
