@@ -24,7 +24,7 @@ header {
   background: linear-gradient(135deg, #0a3666, #1a508b);
   color: white;
   border-bottom: 4px solid #000;
-  position: absolute;
+  position: position;
   overflow: hidden;
 }
 
