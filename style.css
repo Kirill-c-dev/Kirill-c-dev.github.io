@@ -30,7 +30,7 @@ header {
 
 header::after {
   content: '';
-  position: absolute;
+  position: fixed;
   bottom: -20px;
   left: 0;
   width: 100%;
